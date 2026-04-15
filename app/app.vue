@@ -1,7 +1,7 @@
 <script setup lang="ts">
 
 useHead({
-  title: 'News App - Nuxt 4',
+  title: 'News App - By DUDUN',
 })
 
 // fetch API langsung
