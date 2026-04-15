@@ -1,5 +1,8 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
+      nitro: {
+    preset: 'netlify'
+  },
     runtimeConfig: {
         public: {
           apiBase: 'https://api.npoint.io/749e4cc46af7d03db38a'
