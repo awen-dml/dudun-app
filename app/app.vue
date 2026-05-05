@@ -63,7 +63,7 @@ const formatDate = (date: string) => {
   })
 }
 
-const fallbackImage = 'https://via.placeholder.com/400x200?text=No+Image'
+<!-- const fallbackImage = 'https://placehold.co/600x400/EEE/31343C' -->
 
 </script>
 
